@@ -24,10 +24,10 @@ body {
 	background-position: center;
 }
 .container .box:nth-child(1) {
-	background-image: url('https://aomine1745.github.io/Img/bg2.jpg');
+	background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2013/12/15/196200/f2c43e4304abcbd78e81c243a33bfb54-700.jpg');
 }
 .container .box:nth-child(2) {
-	background-image: url('https://aomine1745.github.io/Img/bg5.jpg');
+	background-image: url('https://www.wallpaperup.com/uploads/wallpapers/2014/01/18/231332/da10ad5e11f824abb19b07306fcefc32-700.jpg');
 	z-index: 2;
 	transition: .5s;
 	clip-path: polygon(0 0, 100% 0, 100% 0, 0 100%);
